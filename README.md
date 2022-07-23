@@ -1,4 +1,5 @@
 # static_website
+<<<<<<< HEAD
 https://ngockhanh76.github.io/static_website/
 https://i.pinimg.com/originals/7f/45/79/7f45793e2535d8eea8462f943a108340.jpg
 https://covers.openlibrary.org/b/id/9886204-L.jpg
@@ -13,3 +14,5 @@ https://covers.openlibrary.org/b/id/8443118-L.jpg
 https://covers.openlibrary.org/b/id/11446715-L.jpg
 https://covers.openlibrary.org/b/id/52312-L.jpg
 https://covers.openlibrary.org/b/id/11416641-L.jpg
+=======
+>>>>>>> 7613ef6eef1d87fdc91482920ba09c3fd7c5b389
